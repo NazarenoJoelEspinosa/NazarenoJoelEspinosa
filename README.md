@@ -54,13 +54,8 @@ Me interesa crear aplicaciones que resuelvan problemas reales, combinando interf
 
 ## 📊 GitHub
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/NazarenoJoelEspinosa/NazarenoJoelEspinosa/output/github-stats.svg" alt="GitHub Stats">
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/NazarenoJoelEspinosa/NazarenoJoelEspinosa/output/github-languages.svg" alt="Top Languages">
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/NazarenoJoelEspinosa/NazarenoJoelEspinosa/output/github-stats.svg" alt="GitHub Stats"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/NazarenoJoelEspinosa/NazarenoJoelEspinosa/output/github-languages.svg" alt="Top Languages"></p>
 
 ---
 
@@ -95,11 +90,7 @@ Me interesa crear aplicaciones que resuelvan problemas reales, combinando interf
 ---
 
 <div align="center">
-
 <a href="https://nazarenojoelespinosa.github.io/Portfolio/"><img src="https://img.shields.io/badge/Ver%20mi%20Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-
 <br><br>
-
 <img src="https://komarev.com/ghpvc/?username=NazarenoJoelEspinosa&style=for-the-badge&color=4F46E5">
-
 </div>
